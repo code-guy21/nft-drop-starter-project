@@ -1,0 +1,19 @@
+{
+	"name": "IronMan",
+	"symbol": "IronMan",
+	"image": "0.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "1.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "EmJCmE445piDMBBVNKvugPxi4mget3oeBffAyHE6HERp",
+				"share": 100
+			}
+		]
+	}
+}

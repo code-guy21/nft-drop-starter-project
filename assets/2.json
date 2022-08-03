@@ -1,0 +1,19 @@
+{
+	"name": "Dr Strange",
+	"symbol": "Dr Strange",
+	"image": "0.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "2.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "EmJCmE445piDMBBVNKvugPxi4mget3oeBffAyHE6HERp",
+				"share": 100
+			}
+		]
+	}
+}
